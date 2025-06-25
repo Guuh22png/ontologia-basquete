@@ -1,0 +1,6 @@
+git clone https://github.com/Guuh22png/ontologia-basquete.git
+cd ontologia-basquete
+git rm basketball-ontologies.owl.zip
+git rm basketball-ontologies-owl-REVISION-HEAD
+git commit -m "Remover arquivos antigos"
+git push
